@@ -1,6 +1,6 @@
 # <div align="center">TeleStyle:  Content-Preserving Style Transfer in Images and Videos</div>
 <div align="center">
-    Shiwen Zhang, Xiaoyan Yang, Bojia Zi, Haibin Huang, Chi Zhang, Xuelong Li
+    <a href="https://witcherofresearch.github.io/">Shiwen Zhang</a>, Xiaoyan Yang, Bojia Zi, Haibin Huang, Chi Zhang, Xuelong Li
     <br>
     Institute of Artificial Intelligence, China Telecom (TeleAI) 
 </div>
